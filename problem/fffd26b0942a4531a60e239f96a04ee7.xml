@@ -1,0 +1,53 @@
+<problem display_name="Multiple Choice" markdown="&gt;&gt;The frequency of the action potential in the relaxed muscle is&lt;&lt;&#10;( ) 0 Hz&#10;( ) 50 Hz&#10;( ) 60 Hz&#10;( ) 20-5000 Hz&#10;&#10;&gt;&gt;EMG deals with the&lt;&lt;&#10;( ) Study of brain activity&#10;( ) Study of Myocardial activity&#10;( ) Study of Muscular activity&#10;( ) Study of Central nervous system&#10;&#10;&gt;&gt;In contraction of a skeletal muscle, action potentials are generated in the&lt;&lt;&#10;( ) Motor units&#10;( ) Nerve lesion&#10;( ) Skeletal muscle&#10;( ) Brain&#10;&#10;&gt;&gt;The conduction velocity in a motor nerve is normally&lt;&lt;&#10;( ) 100 m/s&#10;( ) 50 m/s&#10;( ) below 40 m/s&#10;( ) 1550 m/s&#10;&#10;&gt;&gt;EMG stands for&lt;&lt;&#10;( ) Elecromusclegraph&#10;( ) Electromayogram&#10;( ) Electromyograin&#10;( ) None of above">
+<p>The frequency of the action potential in the relaxed muscle is</p>
+<multiplechoiceresponse>
+  <choicegroup label="The frequency of the action potential in the relaxed muscle is" type="MultipleChoice">
+    <choice correct="false">0 Hz</choice>
+    <choice correct="false">50 Hz</choice>
+    <choice correct="false">60 Hz</choice>
+    <choice correct="false">20-5000 Hz</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<p>EMG deals with the</p>
+<multiplechoiceresponse>
+  <choicegroup label="EMG deals with the" type="MultipleChoice">
+    <choice correct="false">Study of brain activity</choice>
+    <choice correct="false">Study of Myocardial activity</choice>
+    <choice correct="false">Study of Muscular activity</choice>
+    <choice correct="false">Study of Central nervous system</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<p>In contraction of a skeletal muscle, action potentials are generated in the</p>
+<multiplechoiceresponse>
+  <choicegroup label="In contraction of a skeletal muscle, action potentials are generated in the" type="MultipleChoice">
+    <choice correct="false">Motor units</choice>
+    <choice correct="false">Nerve lesion</choice>
+    <choice correct="false">Skeletal muscle</choice>
+    <choice correct="false">Brain</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<p>The conduction velocity in a motor nerve is normally</p>
+<multiplechoiceresponse>
+  <choicegroup label="The conduction velocity in a motor nerve is normally" type="MultipleChoice">
+    <choice correct="false">100 m/s</choice>
+    <choice correct="false">50 m/s</choice>
+    <choice correct="false">below 40 m/s</choice>
+    <choice correct="false">1550 m/s</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<p>EMG stands for</p>
+<multiplechoiceresponse>
+  <choicegroup label="EMG stands for" type="MultipleChoice">
+    <choice correct="false">Elecromusclegraph</choice>
+    <choice correct="false">Electromayogram</choice>
+    <choice correct="false">Electromyograin</choice>
+    <choice correct="false">None of above</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+
+</problem>

@@ -1,0 +1,32 @@
+<p><button onclick="popup()">Full Screen</button></p>
+<p><iframe src="https://bmsp-coep.vlabs.ac.in/PaceMaker/PaceMaker.html" height="602" width="802"> </iframe></p>
+<script>// <![CDATA[
+function popup(){
+  window.open('https://bmsp-coep.vlabs.ac.in/PaceMaker/PaceMaker.html', '_blank', 'toolbar=0,location=0,menubar=0');
+ }
+// ]]></script>
+<script>// <![CDATA[
+var courseid = "BIO16";
+  var experiment_name = "To simulate Pacemaker"
+  var lab_name = "Biomedical and Signal Processing Laboratory"
+// ]]></script>
+<script src="https://github.com/openedx-vlead/lab-usage-tracker/blob/master/src/common.js"></script>
+<script>// <![CDATA[
+// ****** ALSO MODIFY THE URLS GIVEN ABOVE **************
+// ********MODIFY THIS SECTION **************************
+
+var lab_id = "BIO16"; 
+var exp_name = "To simulate Pacemaker"
+var lab_name = "Virtual Bio-Medical and Signal Processing Laboratory"
+var user_id = "%%USER_ID%%"; //get the User ID as a string  
+var exp_id = "E99922"
+
+var server_url = "http://analytics-api.vlabs.ac.in/"
+
+var xhttp = new XMLHttpRequest();
+var urlstr = server_url + user_id + "," + lab_id + "," + lab_name + "," + exp_id + "," + exp_name
+xhttp.open("GET", urlstr, true);
+xhttp.send();
+
+// *******DO NOT MODIFY THIS SECTION AGAIN ************
+// ]]></script>
