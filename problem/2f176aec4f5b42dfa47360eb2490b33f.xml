@@ -1,53 +1,47 @@
 <problem display_name="Multiple Choice" markdown="&gt;&gt;Because of the risk of electromagnetic interference, pacemaker patients should not be given&lt;&lt;&#10;( ) cancer treatment&#10;( ) diathermy treatment&#10;( ) saline water&#10;( ) the rooms with fans&#10;&#10;&gt;&gt;In the case of stable total AV block, a pacemaker is chosen&lt;&lt;&#10;( ) with constant frequency&#10;( ) that is atrial synchronous&#10;( ) that is ventricular synchronous&#10;( ) with variable frequency and synchronization with ventricular action&#10;&#10;&gt;&gt;______is natural Pacemaker in Human Heart&lt;&lt;&#10;( ) Right and left braches&#10;( ) Atrioventricular node (AV node)&#10;( ) Common AV Bundle&#10;( ) Sinoatrial node (SA Node)&#10;&#10;&gt;&gt;________sends the electrical impulse that triggers each heartbeat.&lt;&lt;&#10;( ) Left Branches&#10;( ) AV node&#10;( ) SA Node&#10;( ) Right Branches&#10;&#10;&gt;&gt;______is most important in case of external pacemaker.&lt;&lt;&#10;( ) Power source Battery&#10;( ) choice2Electrode types&#10;( ) Size and weight&#10;( ) All of the above">
-<p>Because of the risk of electromagnetic interference, pacemaker patients should not be given</p>
-<multiplechoiceresponse>
-  <choicegroup label="Because of the risk of electromagnetic interference, pacemaker patients should not be given" type="MultipleChoice">
-    <choice correct="false">cancer treatment</choice>
-    <choice correct="false">diathermy treatment</choice>
-    <choice correct="false">saline water</choice>
-    <choice correct="false">the rooms with fans</choice>
-  </choicegroup>
-</multiplechoiceresponse>
-
-<p>In the case of stable total AV block, a pacemaker is chosen</p>
-<multiplechoiceresponse>
-  <choicegroup label="In the case of stable total AV block, a pacemaker is chosen" type="MultipleChoice">
-    <choice correct="false">with constant frequency</choice>
-    <choice correct="false">that is atrial synchronous</choice>
-    <choice correct="false">that is ventricular synchronous</choice>
-    <choice correct="false">with variable frequency and synchronization with ventricular action</choice>
-  </choicegroup>
-</multiplechoiceresponse>
-
-<p>______is natural Pacemaker in Human Heart</p>
-<multiplechoiceresponse>
-  <choicegroup label="______is natural Pacemaker in Human Heart" type="MultipleChoice">
-    <choice correct="false">Right and left braches</choice>
-    <choice correct="false">Atrioventricular node (AV node)</choice>
-    <choice correct="false">Common AV Bundle</choice>
-    <choice correct="false">Sinoatrial node (SA Node)</choice>
-  </choicegroup>
-</multiplechoiceresponse>
-
-<p>________sends the electrical impulse that triggers each heartbeat.</p>
-<multiplechoiceresponse>
-  <choicegroup label="________sends the electrical impulse that triggers each heartbeat." type="MultipleChoice">
-    <choice correct="false">Left Branches</choice>
-    <choice correct="false">AV node</choice>
-    <choice correct="false">SA Node</choice>
-    <choice correct="false">Right Branches</choice>
-  </choicegroup>
-</multiplechoiceresponse>
-
-<p>______is most important in case of external pacemaker.</p>
-<multiplechoiceresponse>
-  <choicegroup label="______is most important in case of external pacemaker." type="MultipleChoice">
-    <choice correct="false">Power source Battery</choice>
-    <choice correct="false">choice2Electrode types</choice>
-    <choice correct="false">Size and weight</choice>
-    <choice correct="false">All of the above</choice>
-  </choicegroup>
-</multiplechoiceresponse>
-
-
+  <p>Because of the risk of electromagnetic interference, pacemaker patients should not be given</p>
+  <multiplechoiceresponse>
+    <choicegroup label="Because of the risk of electromagnetic interference, pacemaker patients should not be given" type="MultipleChoice">
+      <choice correct="false">cancer treatment</choice>
+      <choice correct="false">diathermy treatment</choice>
+      <choice correct="false">saline water</choice>
+      <choice correct="false">the rooms with fans</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>In the case of stable total AV block, a pacemaker is chosen</p>
+  <multiplechoiceresponse>
+    <choicegroup label="In the case of stable total AV block, a pacemaker is chosen" type="MultipleChoice">
+      <choice correct="false">with constant frequency</choice>
+      <choice correct="false">that is atrial synchronous</choice>
+      <choice correct="false">that is ventricular synchronous</choice>
+      <choice correct="false">with variable frequency and synchronization with ventricular action</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>______is natural Pacemaker in Human Heart</p>
+  <multiplechoiceresponse>
+    <choicegroup label="______is natural Pacemaker in Human Heart" type="MultipleChoice">
+      <choice correct="false">Right and left braches</choice>
+      <choice correct="false">Atrioventricular node (AV node)</choice>
+      <choice correct="false">Common AV Bundle</choice>
+      <choice correct="false">Sinoatrial node (SA Node)</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>________sends the electrical impulse that triggers each heartbeat.</p>
+  <multiplechoiceresponse>
+    <choicegroup label="________sends the electrical impulse that triggers each heartbeat." type="MultipleChoice">
+      <choice correct="false">Left Branches</choice>
+      <choice correct="false">AV node</choice>
+      <choice correct="false">SA Node</choice>
+      <choice correct="false">Right Branches</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>______is most important in case of external pacemaker.</p>
+  <multiplechoiceresponse>
+    <choicegroup label="______is most important in case of external pacemaker." type="MultipleChoice">
+      <choice correct="false">Power source Battery</choice>
+      <choice correct="false">choice2Electrode types</choice>
+      <choice correct="false">Size and weight</choice>
+      <choice correct="false">All of the above</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
 </problem>

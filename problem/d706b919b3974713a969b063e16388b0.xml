@@ -1,53 +1,47 @@
 <problem display_name="Multiple Choice" markdown="&gt;&gt;Adams stokes attacks can be successfully treated with a&lt;&lt;&#10;( ) Defibrillator&#10;( ) Nerve stimulator&#10;( ) Artificial heart valve&#10;( ) Pacemaker&#10;&#10;&gt;&gt;During Myocardial Infarction, one can use&lt;&lt;&#10;( ) Pacemaker&#10;( ) Heart lung machine&#10;( ) Nerve stimulator&#10;( ) Kidney Machine&#10;&#10;&gt;&gt;To produce ventricular contraction with an electric pulse, the minimum energy required is&lt;&lt;&#10;( ) 10µJ&#10;( ) 1J&#10;( ) 10 mW&#10;( ) 1W&#10;&#10;&gt;&gt;Suppose the pacemaker pulse has high energy and occurs during the vulnerable part of the T wave then the heart is in&lt;&lt;&#10;( ) normal state&#10;( ) atrial fibrillation&#10;( ) ventricular fibrillation&#10;( ) low pressure&#10;&#10;&gt;&gt;The commonest source of energy for pacemaker is the&lt;&lt;&#10;( ) mercury battery&#10;( ) the ordinary dry cell&#10;( ) nuclear battery&#10;( ) solar cell">
-<p>Adams stokes attacks can be successfully treated with a</p>
-<multiplechoiceresponse>
-  <choicegroup label="Adams stokes attacks can be successfully treated with a" type="MultipleChoice">
-    <choice correct="false">Defibrillator</choice>
-    <choice correct="false">Nerve stimulator</choice>
-    <choice correct="false">Artificial heart valve</choice>
-    <choice correct="false">Pacemaker</choice>
-  </choicegroup>
-</multiplechoiceresponse>
-
-<p>During Myocardial Infarction, one can use</p>
-<multiplechoiceresponse>
-  <choicegroup label="During Myocardial Infarction, one can use" type="MultipleChoice">
-    <choice correct="false">Pacemaker</choice>
-    <choice correct="false">Heart lung machine</choice>
-    <choice correct="false">Nerve stimulator</choice>
-    <choice correct="false">Kidney Machine</choice>
-  </choicegroup>
-</multiplechoiceresponse>
-
-<p>To produce ventricular contraction with an electric pulse, the minimum energy required is</p>
-<multiplechoiceresponse>
-  <choicegroup label="To produce ventricular contraction with an electric pulse, the minimum energy required is" type="MultipleChoice">
-    <choice correct="false">10µJ</choice>
-    <choice correct="false">1J</choice>
-    <choice correct="false">10 mW</choice>
-    <choice correct="false">1W</choice>
-  </choicegroup>
-</multiplechoiceresponse>
-
-<p>Suppose the pacemaker pulse has high energy and occurs during the vulnerable part of the T wave then the heart is in</p>
-<multiplechoiceresponse>
-  <choicegroup label="Suppose the pacemaker pulse has high energy and occurs during the vulnerable part of the T wave then the heart is in" type="MultipleChoice">
-    <choice correct="false">normal state</choice>
-    <choice correct="false">atrial fibrillation</choice>
-    <choice correct="false">ventricular fibrillation</choice>
-    <choice correct="false">low pressure</choice>
-  </choicegroup>
-</multiplechoiceresponse>
-
-<p>The commonest source of energy for pacemaker is the</p>
-<multiplechoiceresponse>
-  <choicegroup label="The commonest source of energy for pacemaker is the" type="MultipleChoice">
-    <choice correct="false">mercury battery</choice>
-    <choice correct="false">the ordinary dry cell</choice>
-    <choice correct="false">nuclear battery</choice>
-    <choice correct="false">solar cell</choice>
-  </choicegroup>
-</multiplechoiceresponse>
-
-
+  <p>Adams stokes attacks can be successfully treated with a</p>
+  <multiplechoiceresponse>
+    <choicegroup label="Adams stokes attacks can be successfully treated with a" type="MultipleChoice">
+      <choice correct="false">Defibrillator</choice>
+      <choice correct="false">Nerve stimulator</choice>
+      <choice correct="false">Artificial heart valve</choice>
+      <choice correct="false">Pacemaker</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>During Myocardial Infarction, one can use</p>
+  <multiplechoiceresponse>
+    <choicegroup label="During Myocardial Infarction, one can use" type="MultipleChoice">
+      <choice correct="false">Pacemaker</choice>
+      <choice correct="false">Heart lung machine</choice>
+      <choice correct="false">Nerve stimulator</choice>
+      <choice correct="false">Kidney Machine</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>To produce ventricular contraction with an electric pulse, the minimum energy required is</p>
+  <multiplechoiceresponse>
+    <choicegroup label="To produce ventricular contraction with an electric pulse, the minimum energy required is" type="MultipleChoice">
+      <choice correct="false">10µJ</choice>
+      <choice correct="false">1J</choice>
+      <choice correct="false">10 mW</choice>
+      <choice correct="false">1W</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>Suppose the pacemaker pulse has high energy and occurs during the vulnerable part of the T wave then the heart is in</p>
+  <multiplechoiceresponse>
+    <choicegroup label="Suppose the pacemaker pulse has high energy and occurs during the vulnerable part of the T wave then the heart is in" type="MultipleChoice">
+      <choice correct="false">normal state</choice>
+      <choice correct="false">atrial fibrillation</choice>
+      <choice correct="false">ventricular fibrillation</choice>
+      <choice correct="false">low pressure</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>The commonest source of energy for pacemaker is the</p>
+  <multiplechoiceresponse>
+    <choicegroup label="The commonest source of energy for pacemaker is the" type="MultipleChoice">
+      <choice correct="false">mercury battery</choice>
+      <choice correct="false">the ordinary dry cell</choice>
+      <choice correct="false">nuclear battery</choice>
+      <choice correct="false">solar cell</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
 </problem>

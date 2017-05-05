@@ -1,53 +1,47 @@
 <problem display_name="Multiple Choice" markdown="&gt;&gt;For biomedical applications, the mostly used amplifier is&lt;&lt;&#10;( ) Single ended amplifier&#10;( ) Differential amplifier&#10;( ) Inverting operational amplifier&#10;( ) Chopper amplifier&#10;&#10;&gt;&gt;The use of notch filter in signal conditioning system is&lt;&lt;&#10;( ) to filter R.F. noise&#10;( ) to filter 50 Hz noise from mains&#10;( ) to filter the signal from various noises&#10;( ) to attenuate the evoked response potentials&#10;&#10;&gt;&gt;Instrumentation amplifier has&lt;&lt;&#10;( ) high Input impedance&#10;( ) high Output impedance&#10;( ) high Input impedance and output impedance&#10;( ) None of the above&#10;&#10;&gt;&gt;The properties desired in a bioelectric amplifier are&lt;&lt;&#10;( ) single ended output, often differential input&#10;( ) high CMRR&#10;( ) extremely high-input impedance&#10;( ) All of the above&#10;&#10;&gt;&gt;______is (are) important in case of bio-signal measurement.&lt;&lt;&#10;( ) Input guarding&#10;( ) Isolation&#10;( ) impedance marching&#10;( ) all of the above">
-<p>For biomedical applications, the mostly used amplifier is</p>
-<multiplechoiceresponse>
-  <choicegroup label="For biomedical applications, the mostly used amplifier is" type="MultipleChoice">
-    <choice correct="false">Single ended amplifier</choice>
-    <choice correct="false">Differential amplifier</choice>
-    <choice correct="false">Inverting operational amplifier</choice>
-    <choice correct="false">Chopper amplifier</choice>
-  </choicegroup>
-</multiplechoiceresponse>
-
-<p>The use of notch filter in signal conditioning system is</p>
-<multiplechoiceresponse>
-  <choicegroup label="The use of notch filter in signal conditioning system is" type="MultipleChoice">
-    <choice correct="false">to filter R.F. noise</choice>
-    <choice correct="false">to filter 50 Hz noise from mains</choice>
-    <choice correct="false">to filter the signal from various noises</choice>
-    <choice correct="false">to attenuate the evoked response potentials</choice>
-  </choicegroup>
-</multiplechoiceresponse>
-
-<p>Instrumentation amplifier has</p>
-<multiplechoiceresponse>
-  <choicegroup label="Instrumentation amplifier has" type="MultipleChoice">
-    <choice correct="false">high Input impedance</choice>
-    <choice correct="false">high Output impedance</choice>
-    <choice correct="false">high Input impedance and output impedance</choice>
-    <choice correct="false">None of the above</choice>
-  </choicegroup>
-</multiplechoiceresponse>
-
-<p>The properties desired in a bioelectric amplifier are</p>
-<multiplechoiceresponse>
-  <choicegroup label="The properties desired in a bioelectric amplifier are" type="MultipleChoice">
-    <choice correct="false">single ended output, often differential input</choice>
-    <choice correct="false">high CMRR</choice>
-    <choice correct="false">extremely high-input impedance</choice>
-    <choice correct="false">All of the above</choice>
-  </choicegroup>
-</multiplechoiceresponse>
-
-<p>______is (are) important in case of bio-signal measurement.</p>
-<multiplechoiceresponse>
-  <choicegroup label="______is (are) important in case of bio-signal measurement." type="MultipleChoice">
-    <choice correct="false">Input guarding</choice>
-    <choice correct="false">Isolation</choice>
-    <choice correct="false">impedance marching</choice>
-    <choice correct="false">all of the above</choice>
-  </choicegroup>
-</multiplechoiceresponse>
-
-
+  <p>For biomedical applications, the mostly used amplifier is</p>
+  <multiplechoiceresponse>
+    <choicegroup label="For biomedical applications, the mostly used amplifier is" type="MultipleChoice">
+      <choice correct="false">Single ended amplifier</choice>
+      <choice correct="false">Differential amplifier</choice>
+      <choice correct="false">Inverting operational amplifier</choice>
+      <choice correct="false">Chopper amplifier</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>The use of notch filter in signal conditioning system is</p>
+  <multiplechoiceresponse>
+    <choicegroup label="The use of notch filter in signal conditioning system is" type="MultipleChoice">
+      <choice correct="false">to filter R.F. noise</choice>
+      <choice correct="false">to filter 50 Hz noise from mains</choice>
+      <choice correct="false">to filter the signal from various noises</choice>
+      <choice correct="false">to attenuate the evoked response potentials</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>Instrumentation amplifier has</p>
+  <multiplechoiceresponse>
+    <choicegroup label="Instrumentation amplifier has" type="MultipleChoice">
+      <choice correct="false">high Input impedance</choice>
+      <choice correct="false">high Output impedance</choice>
+      <choice correct="false">high Input impedance and output impedance</choice>
+      <choice correct="false">None of the above</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>The properties desired in a bioelectric amplifier are</p>
+  <multiplechoiceresponse>
+    <choicegroup label="The properties desired in a bioelectric amplifier are" type="MultipleChoice">
+      <choice correct="false">single ended output, often differential input</choice>
+      <choice correct="false">high CMRR</choice>
+      <choice correct="false">extremely high-input impedance</choice>
+      <choice correct="false">All of the above</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>______is (are) important in case of bio-signal measurement.</p>
+  <multiplechoiceresponse>
+    <choicegroup label="______is (are) important in case of bio-signal measurement." type="MultipleChoice">
+      <choice correct="false">Input guarding</choice>
+      <choice correct="false">Isolation</choice>
+      <choice correct="false">impedance marching</choice>
+      <choice correct="false">all of the above</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
 </problem>
