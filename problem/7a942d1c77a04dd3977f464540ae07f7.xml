@@ -1,53 +1,47 @@
 <problem display_name="Multiple Choice" markdown="&gt;&gt;Inflammation of the kidneys is called&lt;&lt;&#10;( ) otitis&#10;( ) hepatitis&#10;( ) rephritis&#10;( ) toxemia&#10;&#10;&gt;&gt;Most blood pumps use the principle of&lt;&lt;&#10;( ) peristaltic compression&#10;( ) centrifuge&#10;( ) compression&#10;( ) normal acceleration&#10;&#10;&gt;&gt;To reduce hemolysis, the blood pump design should provide a flow that minimises&lt;&lt;&#10;( ) oxygen tension&#10;( ) turbulence&#10;( ) body temperature&#10;( ) continuous flow&#10;&#10;&gt;&gt;In dialysis the waste products are transferred to the dialysate by&lt;&lt;&#10;( ) surface tension&#10;( ) centrifuge&#10;( ) diffusion&#10;( ) viscosity variation&#10;&#10;&gt;&gt;In hemodialysis, the temperature system consists of heater element and switch, seals, housing temperature gauge and Control. Usual temperature range is&lt;&lt;&#10;( ) 33 ~ 36º C&#10;( ) 36 ~ 39º C&#10;( ) 38 ~ 42º C&#10;( ) 33 ~ 42º C">
-<p>Inflammation of the kidneys is called</p>
-<multiplechoiceresponse>
-  <choicegroup label="Inflammation of the kidneys is called" type="MultipleChoice">
-    <choice correct="false">otitis</choice>
-    <choice correct="false">hepatitis</choice>
-    <choice correct="false">rephritis</choice>
-    <choice correct="false">toxemia</choice>
-  </choicegroup>
-</multiplechoiceresponse>
-
-<p>Most blood pumps use the principle of</p>
-<multiplechoiceresponse>
-  <choicegroup label="Most blood pumps use the principle of" type="MultipleChoice">
-    <choice correct="false">peristaltic compression</choice>
-    <choice correct="false">centrifuge</choice>
-    <choice correct="false">compression</choice>
-    <choice correct="false">normal acceleration</choice>
-  </choicegroup>
-</multiplechoiceresponse>
-
-<p>To reduce hemolysis, the blood pump design should provide a flow that minimises</p>
-<multiplechoiceresponse>
-  <choicegroup label="To reduce hemolysis, the blood pump design should provide a flow that minimises" type="MultipleChoice">
-    <choice correct="false">oxygen tension</choice>
-    <choice correct="false">turbulence</choice>
-    <choice correct="false">body temperature</choice>
-    <choice correct="false">continuous flow</choice>
-  </choicegroup>
-</multiplechoiceresponse>
-
-<p>In dialysis the waste products are transferred to the dialysate by</p>
-<multiplechoiceresponse>
-  <choicegroup label="In dialysis the waste products are transferred to the dialysate by" type="MultipleChoice">
-    <choice correct="false">surface tension</choice>
-    <choice correct="false">centrifuge</choice>
-    <choice correct="false">diffusion</choice>
-    <choice correct="false">viscosity variation</choice>
-  </choicegroup>
-</multiplechoiceresponse>
-
-<p>In hemodialysis, the temperature system consists of heater element and switch, seals, housing temperature gauge and Control. Usual temperature range is</p>
-<multiplechoiceresponse>
-  <choicegroup label="In hemodialysis, the temperature system consists of heater element and switch, seals, housing temperature gauge and Control. Usual temperature range is" type="MultipleChoice">
-    <choice correct="false">33 ~ 36º C</choice>
-    <choice correct="false">36 ~ 39º C</choice>
-    <choice correct="false">38 ~ 42º C</choice>
-    <choice correct="false">33 ~ 42º C</choice>
-  </choicegroup>
-</multiplechoiceresponse>
-
-
+  <p>Inflammation of the kidneys is called</p>
+  <multiplechoiceresponse>
+    <choicegroup label="Inflammation of the kidneys is called" type="MultipleChoice">
+      <choice correct="false">otitis</choice>
+      <choice correct="false">hepatitis</choice>
+      <choice correct="false">rephritis</choice>
+      <choice correct="false">toxemia</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>Most blood pumps use the principle of</p>
+  <multiplechoiceresponse>
+    <choicegroup label="Most blood pumps use the principle of" type="MultipleChoice">
+      <choice correct="false">peristaltic compression</choice>
+      <choice correct="false">centrifuge</choice>
+      <choice correct="false">compression</choice>
+      <choice correct="false">normal acceleration</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>To reduce hemolysis, the blood pump design should provide a flow that minimises</p>
+  <multiplechoiceresponse>
+    <choicegroup label="To reduce hemolysis, the blood pump design should provide a flow that minimises" type="MultipleChoice">
+      <choice correct="false">oxygen tension</choice>
+      <choice correct="false">turbulence</choice>
+      <choice correct="false">body temperature</choice>
+      <choice correct="false">continuous flow</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>In dialysis the waste products are transferred to the dialysate by</p>
+  <multiplechoiceresponse>
+    <choicegroup label="In dialysis the waste products are transferred to the dialysate by" type="MultipleChoice">
+      <choice correct="false">surface tension</choice>
+      <choice correct="false">centrifuge</choice>
+      <choice correct="false">diffusion</choice>
+      <choice correct="false">viscosity variation</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>In hemodialysis, the temperature system consists of heater element and switch, seals, housing temperature gauge and Control. Usual temperature range is</p>
+  <multiplechoiceresponse>
+    <choicegroup label="In hemodialysis, the temperature system consists of heater element and switch, seals, housing temperature gauge and Control. Usual temperature range is" type="MultipleChoice">
+      <choice correct="false">33 ~ 36º C</choice>
+      <choice correct="false">36 ~ 39º C</choice>
+      <choice correct="false">38 ~ 42º C</choice>
+      <choice correct="false">33 ~ 42º C</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
 </problem>

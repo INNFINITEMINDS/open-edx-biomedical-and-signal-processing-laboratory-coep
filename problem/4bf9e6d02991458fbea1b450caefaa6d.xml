@@ -1,53 +1,47 @@
 <problem display_name="Multiple Choice" markdown="&gt;&gt;The origin for EMG is&lt;&lt;&#10;( ) Skin muscle&#10;( ) Heart muscle&#10;( ) Nerve Muscle&#10;( ) ECG and EOG&#10;&#10;&gt;&gt;The electrode used for recording of electrical activity of cell is&lt;&lt;&#10;( ) Floating electrode&#10;( ) Disc electrode&#10;( ) Needle electrode&#10;( ) micro electrode&#10;&#10;&gt;&gt;Among the following electrodes, which have high Zi?&lt;&lt;&#10;( ) Surface electrodes&#10;( ) Needle electrodes&#10;( ) Micro electrodes&#10;( ) Disc electrodes&#10;&#10;&gt;&gt;The electrode used for recording of EMG is&lt;&lt;&#10;( ) Micro electrode&#10;( ) Floating elctrode&#10;( ) Surface electrode&#10;( ) None of above&#10;&#10;&gt;&gt;The electromyograph (primary signal) voltage range is&lt;&lt;&#10;( ) 10 to 10000 µV&#10;( ) 20 to 5000 µV&#10;( ) 10 to 350 µV&#10;( ) None of above">
-<p>The origin for EMG is</p>
-<multiplechoiceresponse>
-  <choicegroup label="The origin for EMG is" type="MultipleChoice">
-    <choice correct="false">Skin muscle</choice>
-    <choice correct="false">Heart muscle</choice>
-    <choice correct="false">Nerve Muscle</choice>
-    <choice correct="false">ECG and EOG</choice>
-  </choicegroup>
-</multiplechoiceresponse>
-
-<p>The electrode used for recording of electrical activity of cell is</p>
-<multiplechoiceresponse>
-  <choicegroup label="The electrode used for recording of electrical activity of cell is" type="MultipleChoice">
-    <choice correct="false">Floating electrode</choice>
-    <choice correct="false">Disc electrode</choice>
-    <choice correct="false">Needle electrode</choice>
-    <choice correct="false">micro electrode</choice>
-  </choicegroup>
-</multiplechoiceresponse>
-
-<p>Among the following electrodes, which have high Zi?</p>
-<multiplechoiceresponse>
-  <choicegroup label="Among the following electrodes, which have high Zi?" type="MultipleChoice">
-    <choice correct="false">Surface electrodes</choice>
-    <choice correct="false">Needle electrodes</choice>
-    <choice correct="false">Micro electrodes</choice>
-    <choice correct="false">Disc electrodes</choice>
-  </choicegroup>
-</multiplechoiceresponse>
-
-<p>The electrode used for recording of EMG is</p>
-<multiplechoiceresponse>
-  <choicegroup label="The electrode used for recording of EMG is" type="MultipleChoice">
-    <choice correct="false">Micro electrode</choice>
-    <choice correct="false">Floating elctrode</choice>
-    <choice correct="false">Surface electrode</choice>
-    <choice correct="false">None of above</choice>
-  </choicegroup>
-</multiplechoiceresponse>
-
-<p>The electromyograph (primary signal) voltage range is</p>
-<multiplechoiceresponse>
-  <choicegroup label="The electromyograph (primary signal) voltage range is" type="MultipleChoice">
-    <choice correct="false">10 to 10000 µV</choice>
-    <choice correct="false">20 to 5000 µV</choice>
-    <choice correct="false">10 to 350 µV</choice>
-    <choice correct="false">None of above</choice>
-  </choicegroup>
-</multiplechoiceresponse>
-
-
+  <p>The origin for EMG is</p>
+  <multiplechoiceresponse>
+    <choicegroup label="The origin for EMG is" type="MultipleChoice">
+      <choice correct="false">Skin muscle</choice>
+      <choice correct="false">Heart muscle</choice>
+      <choice correct="false">Nerve Muscle</choice>
+      <choice correct="false">ECG and EOG</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>The electrode used for recording of electrical activity of cell is</p>
+  <multiplechoiceresponse>
+    <choicegroup label="The electrode used for recording of electrical activity of cell is" type="MultipleChoice">
+      <choice correct="false">Floating electrode</choice>
+      <choice correct="false">Disc electrode</choice>
+      <choice correct="false">Needle electrode</choice>
+      <choice correct="false">micro electrode</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>Among the following electrodes, which have high Zi?</p>
+  <multiplechoiceresponse>
+    <choicegroup label="Among the following electrodes, which have high Zi?" type="MultipleChoice">
+      <choice correct="false">Surface electrodes</choice>
+      <choice correct="false">Needle electrodes</choice>
+      <choice correct="false">Micro electrodes</choice>
+      <choice correct="false">Disc electrodes</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>The electrode used for recording of EMG is</p>
+  <multiplechoiceresponse>
+    <choicegroup label="The electrode used for recording of EMG is" type="MultipleChoice">
+      <choice correct="false">Micro electrode</choice>
+      <choice correct="false">Floating elctrode</choice>
+      <choice correct="false">Surface electrode</choice>
+      <choice correct="false">None of above</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>The electromyograph (primary signal) voltage range is</p>
+  <multiplechoiceresponse>
+    <choicegroup label="The electromyograph (primary signal) voltage range is" type="MultipleChoice">
+      <choice correct="false">10 to 10000 µV</choice>
+      <choice correct="false">20 to 5000 µV</choice>
+      <choice correct="false">10 to 350 µV</choice>
+      <choice correct="false">None of above</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
 </problem>
