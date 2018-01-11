@@ -3,21 +3,21 @@
         "contentType": "image/jpeg", 
         "content_son": {
             "category": "asset", 
-            "course": "BIO16", 
+            "course": "biotech28", 
             "name": "COEP-Biomedical_and_Signal_Processing_Laboratory.JPG", 
-            "org": "COE-Pune", 
+            "org": "Virtual-Labs", 
             "revision": null, 
             "run": "Anytime", 
             "tag": "c4x"
         }, 
         "displayname": "COEP-Biomedical and Signal Processing Laboratory.JPG", 
-        "filename": "asset-v1:COE-Pune+BIO16+Anytime+type@asset+block@COEP-Biomedical_and_Signal_Processing_Laboratory.JPG", 
+        "filename": "asset-v1:Virtual-Labs+biotech28+Anytime+type@asset+block@COEP-Biomedical_and_Signal_Processing_Laboratory.JPG", 
         "import_path": "COEP-Biomedical and Signal Processing Laboratory.JPG", 
         "locked": false, 
         "thumbnail_location": [
             "c4x", 
-            "COE-Pune", 
-            "BIO16", 
+            "Virtual-Labs", 
+            "biotech28", 
             "thumbnail", 
             "COEP-Biomedical_and_Signal_Processing_Laboratory-JPG.jpg", 
             null
